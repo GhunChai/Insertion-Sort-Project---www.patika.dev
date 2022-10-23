@@ -11,6 +11,7 @@ Aşama 4 [2,16,18,22,27,6]
 Aşama 5 [2,6,16,18,22,27] insretion sort tamamlandı
 
 2- Big-O gösterimini yazınız. 
+
 Worst case n! =n*(n+1)/2 = (n^2+n)/2 = O(n^2)
 
 3-Time Complexity:Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
